@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Layout from \"./Layout\";","map":{"version":3,"sources":["C:/Users/gsgar/Desktop/nextJSapp/components/Prices.js"],"names":["Layout"],"mappings":"AAAA,OAAOA,MAAP,MAAmB,UAAnB","sourcesContent":["import Layout from \"./Layout\";\r\n"]},"metadata":{},"sourceType":"module"}
